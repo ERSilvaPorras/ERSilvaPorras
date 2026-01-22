@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hola, soy Richard Silva Porras
 
-<!--
-**ERSilvaPorras/ERSilvaPorras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer | Python · Docker · PostgreSQL · AWS**  
+📍 Tucumán, Argentina
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+- Backend developer con foco en sistemas robustos y escalables
+- Experiencia en APIs, contenedores y automatización
+- En formación activa en Cloud & DevOps (AWS)
+
+---
+
+## 🧰 Stack principal
+- **Backend:** Python (FastAPI, Django, Flask), Node.js, NestJS
+- **Infra:** Docker, Docker Compoese, Linux, AWS (EC2, IAM, VPC)
+- **DB:** PostgreSQL, MySQL
+- **DevOps:** GitHub Actions, CI/CD básico
+
+---
+
+## 📚 Aprendizaje activo
+- AWS & Cloud Fundamentals
+- Linux avanzado
+- Automatización y observabilidad
+
+---
+
+## 📫 Contacto
+- Email: [er.silvaporras@gmail.com](mailto:er.silvaporras@gmail.com)
+- LinkedIn: [linkedin.com/in/ersilvaporras](https://www.linkedin.com/in/ersilvaporras)
+
+---
